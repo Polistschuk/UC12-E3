@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2efd0f35-f9e3-401b-a0d7-7bda419b0b96": {
+      "ProjectGuid": "2efd0f35-f9e3-401b-a0d7-7bda419b0b96",
+      "DisplayName": "ChapterBE3",
+      "ColorIndex": 0
+    },
+    "d96ed816-53dd-4b28-8c92-e5f8d5a2814b": {
+      "ProjectGuid": "d96ed816-53dd-4b28-8c92-e5f8d5a2814b",
+      "DisplayName": "TestXunit",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
